@@ -1,2 +1,4 @@
 # flexbox-cards
-the basic card layouts created in html and css,which can be used for different products.
+card layouts for products created in html and css.
+
+View Here : https://codepen.io/techcursed/pen/jOqyLxN
